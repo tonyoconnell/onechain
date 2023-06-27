@@ -1,11 +1,11 @@
 {
-    "name": "flowise-ui",
+    "name": "one-ui",
     "version": "1.2.12",
     "license": "SEE LICENSE IN LICENSE.md",
     "homepage": "https://one.ie",
     "author": {
-        "name": "HenryHeng",
-        "email": "henryheng@one.ie"
+        "name": "Anthony O'Connell",
+        "email": "tony@one.ie"
     },
     "dependencies": {
         "@emotion/cache": "^11.4.0",
