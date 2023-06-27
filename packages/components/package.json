@@ -9,10 +9,10 @@
         "dev": "tsc --watch"
     },
     "keywords": [],
-    "homepage": "https://flowiseai.com",
+    "homepage": "https://one.ie",
     "author": {
         "name": "Henry Heng",
-        "email": "henryheng@flowiseai.com"
+        "email": "henryheng@one.ie"
     },
     "license": "SEE LICENSE IN LICENSE.md",
     "dependencies": {

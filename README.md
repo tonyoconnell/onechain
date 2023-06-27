@@ -128,25 +128,25 @@ FLOWISE_PASSWORD=1234
 
 ## 📖 Documentation
 
-[Flowise Docs](https://docs.flowiseai.com/)
+[Flowise Docs](https://docs.one.ie/)
 
 ## 🌐 Self Host
 
-### [Railway](https://docs.flowiseai.com/deployment/railway)
+### [Railway](https://docs.one.ie/deployment/railway)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/YK7J0v)
 
-### [Render](https://docs.flowiseai.com/deployment/render)
+### [Render](https://docs.one.ie/deployment/render)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://docs.flowiseai.com/deployment/render)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://docs.one.ie/deployment/render)
 
-### [AWS](https://docs.flowiseai.com/deployment/aws)
+### [AWS](https://docs.one.ie/deployment/aws)
 
-### [Azure](https://docs.flowiseai.com/deployment/azure)
+### [Azure](https://docs.one.ie/deployment/azure)
 
-### [DigitalOcean](https://docs.flowiseai.com/deployment/digital-ocean)
+### [DigitalOcean](https://docs.one.ie/deployment/digital-ocean)
 
-### [GCP](https://docs.flowiseai.com/deployment/gcp)
+### [GCP](https://docs.one.ie/deployment/gcp)
 
 ## 💻 Cloud Hosted
 

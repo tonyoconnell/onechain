@@ -2,10 +2,10 @@
     "name": "flowise-ui",
     "version": "1.2.12",
     "license": "SEE LICENSE IN LICENSE.md",
-    "homepage": "https://flowiseai.com",
+    "homepage": "https://one.ie",
     "author": {
         "name": "HenryHeng",
-        "email": "henryheng@flowiseai.com"
+        "email": "henryheng@one.ie"
     },
     "dependencies": {
         "@emotion/cache": "^11.4.0",
